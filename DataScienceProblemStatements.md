@@ -8,4 +8,4 @@
 
 ---
 
-This file is structured for direct use in GitHub with clear formatting.
+
